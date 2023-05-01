@@ -17,5 +17,8 @@ Una vez que se completó el análisis exploratorio en Python, se procedió a rea
 
 Se crearon informes y dashboards interactivos que permiten al usuario explorar la información de diferentes maneras, filtrando por diferentes variables y cambiando la visualización de los datos.
 
+## Script de Python en Power BI para graficar ML
+Teniendo un análisis consolidado, se procedió a implementar técnicas de machine learning para predecir comportamientos futuros en el acceso a internet, esto dentro de la herramienta de Power BI, lo que posteriormente fue representado en un gráfico. Puedes ver el script de Python en el archivo ML, como también ingresando al archivo Análisis, cuyo script y grafico se encuentran en el último reporte.
+
 ## Conclusiones
 Este proyecto permitió obtener información valiosa sobre el acceso a Internet en Argentina, y demostró la importancia del análisis exploratorio de datos y del análisis de BI para obtener información significativa de grandes conjuntos de datos. La información obtenida puede ser utilizada para mejorar la calidad del servicio de Internet en diferentes áreas geográficas y para tomar decisiones más informadas en el ámbito de las telecomunicaciones en Argentina.
